@@ -1,0 +1,20 @@
+[
+  {
+    "UsuarioId": 0,
+    "nome": "teste1",
+    "email": "teste1@teste.com",
+    "senha": "8bc87546bd35f3cb0cfc60f85b65f678686fa8081ab7c4d38fcfadad7cc8e0fb"
+  },
+  {
+    "UsuarioId": 1,
+    "nome": "teste2",
+    "email": "teste2@teste.com",
+    "senha": "0e30e835534360a8fc8f6a71a52b9a9e822dad74c89b8e32a1e5932973eb7f80"
+  },
+  {
+    "UsuarioId": 2,
+    "nome": "teste3",
+    "email": "teste2@teste.com",
+    "senha": "682e6201b9cfd08195a41801656d3810cdb69664ff9c658e9e04fe281430adb6"
+  }
+]

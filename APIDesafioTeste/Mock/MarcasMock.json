@@ -1,0 +1,19 @@
+﻿[
+  {
+    "marcaId": 0,
+    "nome": "AVELL"
+  },
+  {
+    "marcaId": 1,
+    "nome": "DELL"
+  },
+  {
+    "marcaId": 2,
+    "nome": "VaiSerDeletada"
+  },
+  {
+    "marcaId": 3,
+    "nome": "VaiSerConsultada"
+  }
+
+]

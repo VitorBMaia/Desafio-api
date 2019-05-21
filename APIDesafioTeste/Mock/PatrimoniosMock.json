@@ -1,0 +1,20 @@
+﻿[
+  {
+    "nome": "computador",
+    "marcaId": 1,
+    "descricao": "notebook",
+    "tomboId": "0"
+  },
+  {
+    "nome": "monitor",
+    "marcaId": 1,
+    "descricao": "LCD",
+    "tomboId": "1"
+  },
+  {
+    "nome": "mouse",
+    "marcaId": 1,
+    "descricao": "sem fio",
+    "tomboId": "2"
+  }
+]
